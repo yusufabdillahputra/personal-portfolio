@@ -4,7 +4,7 @@ import * as React from "react";
 import {useTheme} from "next-themes";
 import Aurora from "@/components/backgrounds/Aurora/Aurora";
 
-export function BgAurora({...props}: React.ComponentProps<"div">) {
+export default function BgAurora({...props}: React.ComponentProps<"div">) {
   const {theme, resolvedTheme} = useTheme();
   const auroraColors: () => string[] = (): string[] => {
     const dark: string[] = ["#00095D", "#FF4495", "#232F55"];
