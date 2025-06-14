@@ -1,0 +1,58 @@
+{
+  "global": {
+    "&": "dan"
+  },
+  "landing": {
+    "hero": {
+      "h1": "Yusuf Abdillah Putra",
+      "p1": "Fullstack Developer",
+      "p2": "Menciptakan Solusi Digital Modern yang Minimalis dan Aman untuk Masa Depan yang Lebih Baik",
+      "btn-1": "Unduh Resume",
+      "btn-2": "Lihat Portofolio"
+    },
+    "currentWork": {
+      "headerTitle": "Pekerjaan Sekarang",
+      "headerSubtitle": "Peran dan tantangan yang sedang saya jalani saat ini",
+      "title": "Bank Mega",
+      "description": "Senior Officer - Corporate System Specialist",
+      "badge-1": "Digital Banking",
+      "badge-2": "Corporate Enterprise Systems",
+      "p1": "Melakukan pengembangan terhadap aplikasi corporate pada"
+    },
+    "service": {
+      "headerTitle": "Layanan Profesional",
+      "headerSubtitle": "Keahlian dan layanan yang saya tawarkan secara profesional",
+      "title-1": "Web Developer",
+      "title-2": "Mobile Developer",
+      "title-3": "Website Perusahaan",
+      "description-1": "Membangun aplikasi web modern dengan performa tinggi dan arsitektur yang scalable",
+      "description-2": "Mengembangkan aplikasi mobile yang responsif dan performa tinggi dengan teknologi terkini",
+      "description-3": "Merancang dan mengembangkan website perusahaan yang profesional dengan fokus pada branding perusahaan"
+    },
+    "portfolioHighlight": {
+      "headerTitle": "Sorotan Portofolio",
+      "headerSubtitle": "Karya terbaik dan proyek unggulan yang pernah saya kerjakan"
+    },
+    "contact": {
+      "headerTitle": "Kontak Saya",
+      "headerSubtitle": "Punya pertanyaan atau ingin bekerja sama? Saya ingin sekali mendengar dari Anda. Isi formulir di bawah ini dan saya akan segera menghubungi Anda kembali",
+      "p1": "Ceritakan Deskripsi Mengenai Proyek",
+      "label1": "Nama Lengkap",
+      "placeholder1": "John Doe",
+      "label2": "Alamat Email",
+      "placeholder2": "Ke mana saya harus mengirimkan tanggapannya?",
+      "label3": "Deskripsi",
+      "placeholder3": "Harap berikan informasi terperinci ataupun singkat tentang proyek Anda...",
+      "submitButton": "Kirim Email",
+      "alertTitle": "Berhasil!",
+      "alertDescription": "Email Anda telah berhasil dikirim. Saya akan segera membalas Anda."
+    },
+    "footer": {
+      "p1": "Dibangun menggunakan",
+      "p2": "dengan",
+      "p3": "Set ikon menggunakan",
+      "p4": "Semua set teks menggunakan",
+      "p5": "Di deploy menggunakan"
+    }
+  }
+}

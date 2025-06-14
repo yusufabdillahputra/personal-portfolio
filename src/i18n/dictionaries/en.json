@@ -1,0 +1,58 @@
+{
+  "global": {
+    "&": "and"
+  },
+  "landing": {
+    "hero": {
+      "h1": "Yusuf Abdillah Putra",
+      "p1": "Fullstack Developer",
+      "p2": "Creating Modern, Minimalist and Secure Digital Solutions for a Better Future",
+      "btn-1": "Download Resume",
+      "btn-2": "View Portfolio"
+    },
+    "currentWork": {
+      "headerTitle": "Current Work",
+      "headerSubtitle": "The role and challenges I am currently active",
+      "title": "Bank Mega",
+      "description": "Senior Officer - Corporate System Specialist",
+      "badge-1": "Digital Banking",
+      "badge-2": "Corporate Enterprise Systems",
+      "p1": "Conducting development on corporate applications"
+    },
+    "service": {
+      "headerTitle": "Professional Services",
+      "headerSubtitle": "The expertise and services I offer professionally",
+      "title-1": "Web Developer",
+      "title-2": "Mobile Developer",
+      "title-3": "Company Website",
+      "description-1": "Building modern web applications with high performance and scalable architecture",
+      "description-2": "Develop responsive and high-performance mobile applications with the latest technologies",
+      "description-3": "Design and develop professional company websites with a focus on company branding"
+    },
+    "portfolioHighlight": {
+      "headerTitle": "Portfolio Highlight",
+      "headerSubtitle": "My best work and standout projects I have accomplished"
+    },
+    "contact": {
+      "headerTitle": "Get in Touch",
+      "headerSubtitle": "Have a question or want to work together? i'd love to hear from you. Fill out the form below and i'll get back to you as soon as possible",
+      "p1": "Submit a Description Project",
+      "label1": "Full Name",
+      "placeholder1": "John Doe",
+      "label2": "Email Address",
+      "placeholder2": "Where should i send the response?",
+      "label3": "Description",
+      "placeholder3": "Please provide detailed information about your project...",
+      "submitButton": "Send Email",
+      "alertTitle": "Success!",
+      "alertDescription": "Your mail has been successfully send. I'll get back to you soon."
+    },
+    "footer": {
+      "p1": "Built with",
+      "p2": "with",
+      "p3": "Icon set use",
+      "p4": "All text set in the",
+      "p5": "Deployed with"
+    }
+  }
+}
