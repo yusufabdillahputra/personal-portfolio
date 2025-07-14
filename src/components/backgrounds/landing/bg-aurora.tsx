@@ -7,8 +7,8 @@ import Aurora from "@/components/backgrounds/Aurora/Aurora";
 export default function BgAurora({...props}: React.ComponentProps<"div">) {
   const {theme, resolvedTheme} = useTheme();
   const auroraColors: () => string[] = (): string[] => {
-    const dark: string[] = ["#00095D", "#FF4495", "#232F55"];
-    const light: string[] = ["#90AFC5", "#336B87", "#2A3132"];
+    const dark: string[] = ["#818cf8", "#000000", "#2dd4bf"];
+    const light: string[] = ["#4f46e5", "#ffffff", "#14b8a6"];
     switch (theme) {
       case "dark":
         return dark;

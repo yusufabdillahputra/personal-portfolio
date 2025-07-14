@@ -5,6 +5,8 @@ import {ThemeProvider} from "@/components/global/theme-provider";
 import {NextIntlClientProvider, hasLocale} from 'next-intl';
 import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
+import ReduxProvider from "@/app/[locale]/redux-provider";
+import {Toaster} from "sonner";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -42,7 +44,10 @@ export default async function RootLayout({children, params}: Readonly<{
       disableTransitionOnChange
     >
       <NextIntlClientProvider>
-        {children}
+        <ReduxProvider>
+          {children}
+          <Toaster/>
+        </ReduxProvider>
       </NextIntlClientProvider>
     </ThemeProvider>
     </body>
